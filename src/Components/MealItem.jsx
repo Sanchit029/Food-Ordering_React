@@ -5,7 +5,7 @@ import { useContext } from "react";
 export default function MealItem({ content }) {
   const cartCtx = useContext(CartContext);
   function handleAddItem() {
-    cardCtx.addItem(content);
+    cartCtx.addItem(content);
   }
   function handleImageError(event) {
     event.target.src = 'URL_TO_FALLBACK_IMAGE'; // Replace with your fallback image URL
