@@ -12,17 +12,17 @@ This is a full-stack web application for browsing and ordering meals. It feature
 *A preview of the main meals page.*
 
 <!-- TODO: Add a screenshot of the main application view -->
-![Main App View](placeholder-meals-view.png)
+![Main App View](./public/main_app.png)
 
 *The shopping cart modal.*
 
 <!-- TODO: Add a screenshot of the shopping cart -->
-![Shopping Cart](placeholder-cart-view.png)
+![Shopping Cart](./public/shopping_cart.png)
 
 *The checkout form.*
 
 <!-- TODO: Add a screenshot of the checkout form -->
-![Checkout Form](placeholder-checkout-view.png)
+![Checkout Form](./public/checkout.png)
 
 ---
 
