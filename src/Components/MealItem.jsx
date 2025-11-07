@@ -16,7 +16,7 @@ export default function MealItem({ content }) {
 
     <li className="meal-item">
       <article>
-        <img src={`http://localhost:3000/${content.image}`} alt="" />
+        <img src={`https://food-ordering-react-1.onrender.com/${content.image}`} alt="" />
         <div>
           <h3>{content.name}</h3>
           <p className="meal-item-price">
